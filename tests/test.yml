@@ -2,4 +2,4 @@
   - hosts: localhost
 
     roles:
-      - role:  ansible-role-pip_manager
+      - role:  ansible-role-pip_manager_cygno
